@@ -1,0 +1,8 @@
+REM yt rickroll
+DELAY 2000
+GUI r
+DELAY 100
+STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ
+ENTER
+DELAY 500
+STRING f
